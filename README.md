@@ -1,5 +1,5 @@
 # SuperStore Sales Dashboard
-!dashboard](View.png)
+![dashboard](View.png)
 
 Welcome to the **SuperStore Sales Dashboard**, a dynamic, multi‑view Power BI solution designed to transform raw retail sales data into strategic business insights. Built for analysts and executives alike, this dashboard empowers stakeholders to monitor sales performance, pinpoint profit opportunities, and optimize operations—all in an interactive, responsive interface.
 
