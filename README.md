@@ -1,4 +1,4 @@
-# Sales Dashboard View
+[# Sales Dashboard View
 
 [Repository](https://github.com/prathaM27092000/Sales-Dashboard-MultiView)
 
@@ -21,3 +21,4 @@ Throughout the development process, I encountered challenges and triumphs, each 
 Forecasting in PowerBI: Delving into the world of forecasting in PowerBI was both enlightening and challenging. From selecting the appropriate forecasting model to fine-tuning parameters, I gained valuable insights into the intricacies of predictive analytics.
 
 Mobile Optimization: Adapting the dashboard for mobile viewing opened my eyes to the importance of responsive design. Balancing aesthetics with functionality, I learned to prioritize key metrics and streamline navigation for users on smaller screens.
+](https://github.com/prathaM27092000/Sales-Dashboard-MultiView/tree/main)
