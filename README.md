@@ -1,5 +1,6 @@
 # Sales Dashboard View
 [Repository](https://github.com/prathaM27092000/Sales-Dashboard-MultiView)
+
 ![Sales Dashboard View](https://github.com/prathaM27092000/Sales-Dashboard-MultiView/blob/main/view.png "Sales Dashboard Overview")
 Experience real-time sales forecasting and trend analysis on any device with the Super Store Sales Dashboard. Tailored for both mobile and PC views in Power BI, stay informed and agile in decision-making, whether in the office or on the move
 
