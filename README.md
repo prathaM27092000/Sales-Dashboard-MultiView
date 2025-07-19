@@ -104,7 +104,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, ada
 
 Built with passion by **Prathamesh Gujja**.\
 📧 Email: [prathameshgujja10@outlook.com](mailto\:prathameshgujja10@outlook.com)
-
+🌐 Visit [My Portfolio](https://pratham27092000.github.io/Portfolio/)
 Connect on GitHub: [prathaM27092000](https://github.com/prathaM27092000)
 
 ---
